@@ -13,6 +13,7 @@ https://gems.ruby-china.com
 
 ### RubyConf China - All List
 
+- https://2023.rubyconfchina.org
 - https://2021.rubyconfchina.org
 - https://2020.rubyconfchina.org
 - https://2017.rubyconfchina.org
